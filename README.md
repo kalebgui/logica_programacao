@@ -1,2 +1,2 @@
 # logica_programacao
-exercicios de logica de programacao em c++
+exercicios de logica de programacao do periodo de aprendizagem em C++
